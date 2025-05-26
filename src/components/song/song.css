@@ -1,0 +1,44 @@
+.song-container {
+    width: 90vw;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin: 1rem 0;
+}
+
+.song-container img {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    margin-right: 1rem;
+}
+
+.info__title-artist h3 {
+    font-size: 1rem;
+    color: #ffffff;
+}
+
+.song__info {
+    display: flex;
+    justify-content: flex-start;
+    gap: 14vw;
+    align-items: center;
+    width: 100%;
+}
+
+.song__info h2 {
+    max-width: 8rem;
+}
+
+.info__title-artist {
+    display: flex;
+    flex-direction: column;
+}
+
+h2 {
+    font-size: 1rem;
+}
+
+h4 {
+    font-size: 1rem;
+}

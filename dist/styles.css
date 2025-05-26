@@ -1,0 +1,8 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'General Sans', sans-serif;
+    color: #6b6b6b;
+    background: linear-gradient(0deg, rgba(40,40,42,1) 0%, rgba(20,47,71,1) 70%);
+}
